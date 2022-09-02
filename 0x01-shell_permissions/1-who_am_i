@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 touch whoami
-=======
-whoami
->>>>>>> 963c579c1abedc2e68e005279aedae28767e2236
-
